@@ -1,0 +1,27 @@
+
+.col-6{
+    width: 50%;
+    
+    
+}
+
+.green{
+    background: url(../images/Frame.png) no-repeat;
+    background-color: var(--saturated-green);
+    
+}
+.lux-title{
+    color: #5F6C37;
+    padding-top: 20%;
+    font-size: 40px;
+    padding-left: 40px;
+    text-align: justify;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+.btn-lux{
+    margin-inline-start: 40px;
+    background-color:transparent ;
+    border: 2px solid var(--dark-green);
+    width: 40%;
+} 

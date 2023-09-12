@@ -1,0 +1,49 @@
+.py-3{
+    padding-block: 1.5rem;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.ml-auto, .ms-auto{
+    margin-left: auto;
+}
+
+.collapse{
+    display: block;
+}
+
+
+nav, .nav, .navbar, .navbar-nav{
+    display: flex;
+}
+
+.navbar .nav-link{
+    padding: .125rem .5rem;
+    font-family: 'Bahnschrift', 'sans-serif';
+    font-weight: 350;
+}
+
+.navbar .nav-link img{
+    width: 16px;
+}
+
+@media (max-width:576px){
+
+    .container{
+        width: 100%;
+        margin: 0;
+    }
+    .collapse{
+        display: none;
+    }
+}

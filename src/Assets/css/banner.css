@@ -1,0 +1,68 @@
+.pt-10{
+    padding-top: 5rem;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.max-w-5{
+    width: 45%;
+}
+
+.max-w-7{
+    width: 55%;
+}
+
+img{
+    width: 100%;
+}
+
+.h-full{
+    height: 100%;
+}
+
+.h-5{
+    height: 500px;
+}
+
+span.subtitle{
+    padding:0;
+}
+
+.content .subtitle{
+    background-color: var(--yellow);
+    padding:.26rem .68rem;
+    font-weight: bold;
+    font-size: 1.89rem;
+    color: #5F6C37;
+}
+
+.content .title{
+    font-size: 5rem;
+}
+
+.content p{
+    line-height: 1.25;
+    font-family: "Bahnschrift", sans-serif;
+    font-weight: 350;
+    font-size: 15px;
+
+}
+
+.content img{
+    object-fit: contain;
+    object-position: center;
+}
+
+.btn{
+    margin-left: 0;
+    padding: 1rem 1.6rem;
+    font-size: .825rem;
+    letter-spacing: 1px;
+}
+
+.btn-primary-theme{
+    background-color: var(--dark-green);
+    color: white;
+}

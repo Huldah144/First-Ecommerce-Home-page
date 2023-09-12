@@ -1,0 +1,44 @@
+.wrapper{
+    background-color: var(--saturated-green);
+    padding-top: 30px;
+    margin: auto;
+    
+}
+.col-4{
+    width: 40%;
+}
+.col-6{
+    width: 60%;
+}
+/* .foot{
+    margin: auto;
+} */
+.foot-image{
+    width: auto;
+}
+.foot-title{
+    width: 60%;
+    padding-top: 15px;
+    font-size: 20px;
+    color: var(--dark-green);
+    text-align: justify;
+    line-height: 1.5;
+  }
+  
+.foot-list{
+    color: var(--dark-green);
+    font-weight: 800;
+    font-size: 20px;
+    padding-inline: 20px;
+    
+    
+    
+} 
+  
+.foot-items{
+    padding-top: 10px;
+    line-height: 2;
+    color: #5F6C37;
+    text-align: justify;
+    
+} 

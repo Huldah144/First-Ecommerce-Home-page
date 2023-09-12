@@ -1,0 +1,45 @@
+.sectn-1{
+    background: url(../images/Frame.png);
+    background-color: #f4f4f4;
+    padding: 50px 0;
+   
+}
+.flex{
+    display: flex;
+    justify-content: center;
+
+}
+.hov{
+    
+    background-color: white;
+    border: 0;
+    border-top-right-radius:15px;
+    border-bottom-left-radius:15px;
+    padding:40px; 
+   
+}
+.hov:first-child{
+    padding: 55px;
+}
+/* .frame-list:first-child{
+    padding: 10px;
+} */
+
+.hov:hover{
+    background-color: var(--dark-green);
+    cursor: pointer;
+    transition: background 1s ease-in;
+} 
+.frame-list{
+    font-family: "Bahnschrift", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #5F6C37;
+    text-align: center;
+    
+    /* padding: 10px 0; */
+    
+}
+.frame-list:hover{
+    color: white;
+}

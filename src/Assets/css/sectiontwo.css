@@ -1,0 +1,43 @@
+.sectn-2{
+   padding-block: 70px;
+    background: url(../images/Blob.png) no-repeat;
+   
+    
+
+}
+.row{
+    display: flex;
+   
+}
+.col-4{
+    width: 41%;
+}
+.col-6{
+    width: 53%;
+}
+.improve{
+    color: var(--dark-green);
+     font-family: "Bahnschrift", sans-serif;;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 25%;
+    text-align: left;
+    
+}
+
+.diffuse{
+    font-family: "Bahnschrift", sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 1.5;
+    padding-top: 30px;
+}
+
+.btn-explore{
+    background-color: white;
+    color: #5F6C37;
+    border: 2px solid var(--dark-green);
+    text-transform: uppercase;
+    margin: auto;
+}

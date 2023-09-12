@@ -1,0 +1,21 @@
+.socials{
+    padding: 20px;
+    background-color: var(--yellow);
+    color: #5F6C37;
+    border-top: 3px solid var(--dark-green);
+}
+.copyrite{
+    margin-right: auto;
+}
+.social-icons{
+    display: flex;
+    list-style: none;
+      
+}
+.social-list{
+    padding: 10px;
+    
+}
+.div{
+    padding-bottom: 60px;
+}

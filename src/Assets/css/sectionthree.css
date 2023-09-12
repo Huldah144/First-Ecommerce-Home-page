@@ -1,0 +1,82 @@
+.sectn-3{
+    background: url(../images/flower.png) no-repeat; 
+    
+    
+}
+
+.col-5{
+    width: 30%;
+    
+}
+.bgd{
+    padding: 50px 0;
+    background-color:#f4f4f4;
+}
+
+.best{
+    width: 50%;
+    font-size: 50px;
+    font-weight: 600;
+    color: #5F6C37;
+    margin: auto;
+    padding-top: 30%;
+    padding-bottom: 20px;
+   
+}
+.btn-shop{
+    
+    background-color: #5F6C37;
+    color: white;
+    width: 50%;
+    margin: auto;
+    
+    
+}
+.cart{
+    margin: auto;
+}
+.cart-image{
+    display: flex;
+    position:relative ;
+    width: auto;
+}
+.btn-add{
+    position: absolute;
+    z-index: 10;
+    color: #f4f4f4;
+    background-color: #EAA34D;
+    width: 20%;
+    margin-top: 23%;
+    margin-left: 55px;
+}
+.head-cap{
+    color: #5F6C37;
+    text-transform: uppercase;
+    font-family: "Bahnschrift", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 10px;
+    text-align: center;
+  
+}
+.body-cap{
+    text-align: justify;
+    font-family: "Bahnschrift", sans-serif;
+    font-size: 15px;
+    padding-top: 10px;
+    width: 78%;
+}
+.money{
+    color: #5F6C37;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: right;
+    
+    
+}
+/* .btn-circle{
+  
+    background-color: black;
+    border-radius: 50%;
+   
+} */
